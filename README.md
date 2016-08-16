@@ -14,3 +14,6 @@
  * //这句很简单，根据上面的值得到对应的颜色，然后调用setColor方法
  * paint.setColor(Color.rgb(red, green, blue));
  */
+
+
+![](https://github.com/hxkdidi/Filter/blob/master/1.gif)
